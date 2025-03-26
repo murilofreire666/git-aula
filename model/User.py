@@ -1,2 +1,3 @@
 class User:
-    pass
+    def __init(self, cpf):
+        self.cpf = cpf
